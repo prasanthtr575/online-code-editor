@@ -1,0 +1,11 @@
+{
+  "name": "online-code-editor",
+  "version": "1.0.0",
+  "description": "Online JS code editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanth Raghavan",
+  "license": "ISC"
+}
